@@ -10,6 +10,6 @@ This Rust script cracks SHA-1 hashes using a provided wordlist. Utilizing parall
 • Error Handling: Robust error handling ensures smooth execution and accurate results.
 
 # Usage:
-sha1_cracker <wordlist.txt> <sha1_hash> [-t]
+sha1_cracker <wordlist.txt> <sha1_hash> [-t] numofthreads
 # Author:
 Zeipher21x: Dedicated to advancing cybersecurity through tools and techniques. 
