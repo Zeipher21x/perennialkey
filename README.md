@@ -11,5 +11,5 @@ This Rust script cracks SHA-1 hashes using a provided wordlist. Utilizing parall
 
 # Usage:
 sha1_cracker <wordlist.txt> <sha1_hash> [-t]
-Author:
+# Author:
 Zeipher21x: Dedicated to advancing cybersecurity through tools and techniques. 
